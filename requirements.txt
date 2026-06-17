@@ -1,0 +1,5 @@
+llama-index
+sqlalchemy
+pydantic
+python-dotenv
+jupyter
