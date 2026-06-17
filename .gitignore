@@ -1,0 +1,10 @@
+# Environments
+.env
+venv/
+__pycache__/
+
+# IDE Configs
+.idea/
+
+# Sensible Company Data
+data/
