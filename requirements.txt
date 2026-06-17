@@ -1,5 +1,9 @@
 llama-index
 sqlalchemy
 pydantic
-python-dotenv
+python-dotenv~=1.2.2
 jupyter
+dotenv~=0.9.9
+llama-index-core~=0.14.22
+openai~=2.42.0
+transformers~=5.12.1
